@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akafps&show_icons=true&theme=tokyonight" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akafps&theme=tokyonight" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akafps&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akafps&theme=tokyonight" />
