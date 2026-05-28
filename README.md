@@ -1,3 +1,1 @@
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akafps&theme=tokyonight" />
-
-&theme=tokyonight
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akafps&layout=compact&theme=tokyonight)
